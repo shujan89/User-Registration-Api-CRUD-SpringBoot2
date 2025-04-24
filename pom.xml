@@ -15,7 +15,7 @@
 	<groupId>com.api</groupId>
 	<artifactId>1.Registration-Api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging> <!-- 👈 Added this line -->
+	<packaging>jar</packaging> 
 	<name>1.Registration-Api</name>
 	<description>Demo project for Spring Boot</description>
 
